@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ilham Firmansyah
+- 👀 I’m interested in the Back-End Developer or Front-End
+- 💞️ My hobbies are swimming and basketball
+- 📫 How to reach me? ilham.firmansyah280804@gmail.com
